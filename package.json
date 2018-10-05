@@ -1,0 +1,21 @@
+{
+  "name": "socket.io-lab",
+  "version": "0.0.1",
+  "description": "Studying Socket.IO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theodorosidmar/socket.io-lab.git"
+  },
+  "author": "Sidmar Theodoro <theodorosidmar@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "6.0.0",
+    "express": "4.16.3",
+    "socket.io": "2.1.1"
+  }
+}
